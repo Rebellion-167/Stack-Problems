@@ -5,8 +5,5 @@ Author - Barnik Chakraborty
 <br>
 ## Problems
 1. Implementing Stack using Array List.
-<br>
 2. Implementing Stack using Java Collections Framework.
-<br>
 3. Implementing Stack using Linked List.
-<br>
