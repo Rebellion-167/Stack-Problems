@@ -4,7 +4,6 @@ This repository contains some problems related to Stack Data Structure.
 Author - Barnik Chakraborty
 <br>
 ## Problems
-<br>
 1. Implementing Stack using Array List.
 <br>
 2. Implementing Stack using Java Collections Framework.
